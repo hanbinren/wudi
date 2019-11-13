@@ -1,0 +1,8 @@
+README.rst
+setup.cfg
+source/QtExt/__init__.py
+source/QtExt.egg-info/PKG-INFO
+source/QtExt.egg-info/SOURCES.txt
+source/QtExt.egg-info/dependency_links.txt
+source/QtExt.egg-info/requires.txt
+source/QtExt.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+../QtExt/__init__.py
+../QtExt/__init__.pyc
+requires.txt
+PKG-INFO
+top_level.txt
+dependency_links.txt
+SOURCES.txt

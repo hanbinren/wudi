@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: QtExt
+Version: 0.2.0
+Summary: Qt framework extender
+Home-page: https://bitbucket.org/ftrack/QtExt
+Author: ftrack
+Author-email: UNKNOWN
+License: Apache License (2.0)
+Description: UNKNOWN
+Keywords: PyQt4,PyQt5,PySide,PySide2
+Platform: UNKNOWN

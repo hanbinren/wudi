@@ -1,0 +1,25 @@
+Metadata-Version: 2.0
+Name: ftrack-connect-foundry
+Version: 1.2.0
+Summary: ftrack integration with The Foundry API.
+Home-page: https://bitbucket.org/ftrack/ftrack-connect-foundry
+Author: ftrack
+Author-email: support@ftrack.com
+License: UNKNOWN
+Keywords: ftrack,integration,connect,the foundry
+Platform: UNKNOWN
+
+##########################
+ftrack Connect The Foundry
+##########################
+
+ftrack integration with The Foundry API.
+
+*************
+Documentation
+*************
+
+Full documentation can be found at https://doc.ftrack.com/ftrack-connect-foundry
+
+
+

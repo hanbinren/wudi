@@ -1,0 +1,3 @@
+appdirs==1.4.0
+qtext
+ftrack-python-api

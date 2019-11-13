@@ -1,0 +1,1 @@
+https://bitbucket.org/ftrack/ftrack-connect-pipeline/get/0.8.3.zip#egg=ftrack-connect-pipeline-0.8.3

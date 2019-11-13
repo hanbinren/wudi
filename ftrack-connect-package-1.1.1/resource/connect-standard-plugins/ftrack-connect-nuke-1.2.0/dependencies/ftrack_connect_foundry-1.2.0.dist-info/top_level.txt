@@ -1,0 +1,4 @@
+FnAssetAPI
+assetmgr_hiero
+assetmgr_nuke
+ftrack_connect_foundry
